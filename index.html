@@ -37,12 +37,13 @@
             console.log(speed)
             if (i == divs.length - 1 || i == 0) {
                 speed = -speed
+                j++
             }
 
             divs[i].style.top = 8 * (i + j) + "px"
+      
+            divs[i].style.backgroundColor="rgb("+i*3+","+j*30+","+0+")"
             i += speed
-
-
 
             requestAnimationFrame(animate)
         }
