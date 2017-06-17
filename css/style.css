@@ -1,0 +1,122 @@
+* { position: fixed;  
+   
+  
+}
+
+
+.container{ position: fixed;  
+  width: 33%;
+  height: 33%;
+  margin: 33% 33%;
+  background-color: #333333;
+ position: fixed;   
+  
+}
+
+
+
+
+.boxA{ position: fixed;  
+     width:232px;
+    height: 115px;
+    background-color: #ecac49;
+    top: 0px;
+    left: 0px;
+    
+}
+
+
+
+
+.boxB{ position: fixed;  
+    width:210px;
+    height: 196px;
+    background-color: #0ded2f;
+    top: 0px;
+    left: 52px;
+ 
+}
+
+
+.boxC{ position: fixed;  
+    width: 48px;
+    height: 420px;
+    background-color:#dc3568;
+    top: 22px;
+    left: 156px;
+   
+}
+
+.boxD{ position: fixed;  
+    width: 160px;
+    height: 136px;
+    background-color:#3ab590;  
+    left: 160px;
+    top: 94px;
+   
+}
+
+
+
+.boxE{ position: fixed;  
+    width: 232px;
+    height: 12px;
+    background-color:#8e27c0;  
+    left: 20px;
+    top: 235px;
+ 
+}
+
+
+
+
+.boxF{ position: fixed;  
+    width: 216.81px;
+    height: 216.81px;
+    background-color:#2856bf;  
+    left: 97.31px;
+    top:290.17px;
+   
+}
+
+
+
+
+
+.boxG{ position: fixed;  
+    width: 130.25px;
+    height:105.04px;
+    background-color:#3a66c0;  
+    left: 0px;
+    top:336.39px;
+   
+}
+
+
+
+
+
+.boxH{ position: fixed;  
+    width:154.62px;
+    height:267.23px;
+    background-color:#8bf4f7;  
+    left: 125px;
+    top:303.61px;
+    
+
+}
+
+
+
+
+.boxI{ position: fixed;  
+     width:124.37px;
+    height:161.35px;
+    background-color:#ea2147;  
+    left: 46.05px;
+    top: 380.08px;
+ 
+}
+
+
+
